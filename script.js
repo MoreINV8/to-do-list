@@ -1,6 +1,8 @@
 const inputField = document.getElementById("input-box");
 const taskField = document.getElementById("tasks");
 
+document.querySelector(".create button").addEventListener("click", createTask);
+
 function createTask() {
     if (inputField.value === "") {
         alert("Please enter something...");
