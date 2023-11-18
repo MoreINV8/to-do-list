@@ -2,7 +2,7 @@
 
 > - this project is for practice using ```html css js``` for creating project
 > - this is project is learning by [this video](https://youtu.be/G0jO8kUrg-I?si=PqHfAS7oOqz-ajto)
-> - **day 2:** xx/11/2023
+> - **day 2:** 18/11/2023
 
 ## what did learned from this project?
 - JAVASCRIPT
